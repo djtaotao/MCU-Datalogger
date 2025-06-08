@@ -1,3 +1,4 @@
+*.lck
 *.xml
 *gerber/*
 *backups/*
